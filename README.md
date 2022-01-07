@@ -1,7 +1,5 @@
 ### Hi there, I'm Nastya 👋
 
-![Profile views](https://gpvc.arturio.dev/namknf)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=namknf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on twitter-clone-backend
 - 🌱 I’m currently learning c# and platform .NET
