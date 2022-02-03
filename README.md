@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=namknf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on twitter-clone-backend
-- 🌱 I’m currently learning c# and platform .NET
+- 🌱 I’m currently learning C# and platform .NET
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namknf)](https://github.com/anuraghazra/github-readme-stats)
 
