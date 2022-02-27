@@ -9,4 +9,4 @@
 - 📫 How to reach me: anastmalkina0@gmail.com
 - ⚡ I started learning programming from game development, and now I'm studying the web.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namknf)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namknf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
