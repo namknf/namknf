@@ -1,7 +1,9 @@
 ### Hi there, I'm Nastya 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=namknf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namknf&theme=solarized_dark)
 - 🔭 I’m currently working on twitter-clone-backend
 - 🌱 I’m currently learning C# and platform .NET
 - 📫 How to reach me: anastmalkina0@gmail.com
 - ⚡ I started learning programming from game development, and now I'm studying the web.
+
+[![codewars](https://www.codewars.com/users/namknf/badges/small)](https://www.codewars.com/users/namknf)
